@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dhanashri/Documents/FEM_UMich_W3/CA1_template",
+  "command": "/usr/bin/c++  -DBOOST_NO_AUTO_PTR -DDEBUG -isystem /home/dhanashri/bin/include -isystem /home/dhanashri/bin/include/deal.II/bundled    -pedantic -fPIC -Wall -Wextra -Wmissing-braces -Woverloaded-virtual -Wpointer-arith -Wsign-compare -Wswitch -Wsynth -Wwrite-strings -Wno-placement-new -Wno-literal-suffix -Wno-psabi -Wno-class-memaccess -fopenmp-simd -Wno-parentheses -Wno-unused-local-typedefs -O0 -ggdb -Wa,--compress-debug-sections -o CMakeFiles/main1.dir/main1.cc.o -c /home/dhanashri/Documents/FEM_UMich_W3/CA1_template/main1.cc",
+  "file": "/home/dhanashri/Documents/FEM_UMich_W3/CA1_template/main1.cc"
+}
+]
